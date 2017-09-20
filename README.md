@@ -3,17 +3,18 @@
 1. DragSource可拖拽到DragTarget中，DragTarget动态添加节点
 2. DragTraget可实现拖拽排序功能
 
-效果图:
+## 效果图:
+
 ![](img/dragDemo.gif)
 
-使用
+# 使用
 ```
 git clone ...
 npm i 或 yarn
 ```
-
+## 附录
 采用create-react-app快速构建
-代码结构：
+代码结构如下：
 ```
 my-app/
   README.md
