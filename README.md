@@ -14,7 +14,7 @@ npm i 或 yarn
 npm start 或 yarn start
 ```
 # 源码讲解
-[使用react-dnd+antd tree实现两个列表的拖拽数据传递](http://fengxueqin.com/2017/09/20/front-end/React/drag/)
+[使用react-dnd+antd tree实现两个列表的拖拽数据传递](https://vonxq.github.io/2017/09/20/front-end/React/Practice/drag/)
 ## 附录
 采用create-react-app快速构建
 代码结构如下：
